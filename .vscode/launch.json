@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "Main",
+            "projectName": "T1"
+        },
+        // {
+        //     "type": "java",
+        //     "name": "CodeLens (Launch) - Main",
+        //     "request": "launch",
+        //     "mainClass": "Main",
+        //     "projectName": "T1",
+        // },
+    ]
+}
